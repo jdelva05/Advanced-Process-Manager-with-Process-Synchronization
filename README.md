@@ -58,4 +58,13 @@ Sends a SIGTERM signal to the process with the provided PID to terminate it.
 <img width="212" alt="Screenshot 2023-10-30 at 12 12 58 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/c7b77243-3e0b-4235-a60d-1ff1c66171c1"><br>
 - Exits the program.
 
+## Discussion And Project Results
+The project effectively illustrates the use of threads and processes for basic tasks, such as synchronization and IPC. Its straightforward design facilitates comprehension and lays the groundwork for future, more sophisticated features.
+
+## Conclusion
+In conclusion we set out to comprehend and implement fundamental thread and process management functionalities in a UNIX-like system during the course of this project. The project did a good job of illustrating the complexities of thread synchronization with mutexes, inter-process communication, and process creation. While the implementation of key functionalities, like creating, listing, terminating, and creating threads, went well, the process listing functionality was noticeably absent and may require further development.
+
+The project demonstrated the fundamental ideas of multitasking operating systems, but it also brought attention to the difficulties in coordinating and communicating across various execution units. A key component of UNIX IPC, the ipc_demo specifically illustrated the smooth communication via pipes between parent and child processes.
+
+The functionality mostly functioned as expected, according to the testing results, demonstrating the code's resilience. But since functions like create_process handle important operations, it became clear how important error handling is.
 
