@@ -41,13 +41,9 @@
 Sends a SIGTERM signal to the process with the provided PID to terminate it.
 
 
-4. Thread_sync_demo hello_sync<br>
-<img width="314" alt="Screenshot 2023-10-29 at 11 59 06 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/ad3eb221-b008-4c61-b71c-75f74870f21e"><br>
-- This feature is a demo placeholder and informs the user that it's not fully implemented.
-
-
 5. Create_thread hello_thread<br>
-<img width="509" alt="Screenshot 2023-10-29 at 11 59 59 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/6b2a7ba9-e5de-4e70-aeeb-323d7d738daf">
+<img width="509" alt="Screenshot 2023-10-29 at 11 59 59 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/6b2a7ba9-e5de-4e70-aeeb-323d7d738daf"><br>
+- Creates a new thread that prints its ID and the argument provided.
 
 6. Ipc_demo command:<br>
 <img width="427" alt="Screenshot 2023-10-30 at 12 00 21 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/b050d22a-8da6-4c3d-a379-c4cdecde5c2c"><br>
