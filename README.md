@@ -51,12 +51,11 @@ Sends a SIGTERM signal to the process with the provided PID to terminate it.
 
 7. Thread_sync_demo command:<br>
 <img width="339" alt="Screenshot 2023-10-30 at 12 00 53 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/cf58528f-86a8-4c2c-8685-da11b04388b7"><br>
-
 <img width="498" alt="Screenshot 2023-10-30 at 12 01 50 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/cf37d480-14bb-453d-ace0-36027aed3afa"><br>
 - Creates a thread that locks a mutex, prints a starting message, sleeps for 2 seconds, prints a finishing message, and then unlocks the mutex.
 
 8. Exit Cammand:<br>
-<img width="212" alt="Screenshot 2023-10-30 at 12 12 58 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/c7b77243-3e0b-4235-a60d-1ff1c66171c1">
+<img width="212" alt="Screenshot 2023-10-30 at 12 12 58 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/c7b77243-3e0b-4235-a60d-1ff1c66171c1"><br>
 - Exits the program.
 
 
