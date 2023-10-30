@@ -44,8 +44,8 @@ create_process command:<br>
 IPC Demonstration: <br>
 <img width="427" alt="Screenshot 2023-10-30 at 12 00 21 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/b050d22a-8da6-4c3d-a379-c4cdecde5c2c">
 
-
-<img width="339" alt="Screenshot 2023-10-30 at 12 00 53 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/cf58528f-86a8-4c2c-8685-da11b04388b7">
+Thread Synchronization Demo:<br>
+<img width="339" alt="Screenshot 2023-10-30 at 12 00 53 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/cf58528f-86a8-4c2c-8685-da11b04388b7"><br>
 
 <img width="498" alt="Screenshot 2023-10-30 at 12 01 50 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/cf37d480-14bb-453d-ace0-36027aed3afa">
 
