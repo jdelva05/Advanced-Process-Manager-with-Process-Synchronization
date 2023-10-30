@@ -2,7 +2,7 @@
 
 1. Implemented Functionalities:
 
--Create a new process.
+-Create a new process.<br>
 -List processes (demo implementation).
 -Terminate a process given its PID.
 -Create a new thread.
