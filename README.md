@@ -17,27 +17,28 @@
 - Execute the program using the command: ./main.<br>
 
 ## 3. How to Use:
-- process_manager> exit
-- process_manager> create_process /bin/ls
-- process_manager> list_processes
-- process_manager> terminate_process 12345
-- process_manager> ipc_demo
-- process_manager> thread_sync_demo hello_sync
+- process_manager> exit<br>
+- process_manager> create_process /bin/ls<br>
+- process_manager> list_processes<br>
+- process_manager> terminate_process 12345<br>
+- process_manager> ipc_demo<br>
+- process_manager> thread_sync_demo hello_sync<br>
+- process_manager> exit<br>
 
 ## Outputs
-create_thread command:
+create_thread command:<br>
 <img width="803" alt="Screenshot 2023-10-29 at 11 53 35 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/e64dff60-2475-49aa-ac41-1584fa8e4248">
 
-thread_sync_demo command:
+thread_sync_demo command:<br>
 <img width="371" alt="Screenshot 2023-10-29 at 11 58 04 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/70e88be4-7e75-40f3-a94d-88ad36ef764c">
 
-ipc_demo command:
+ipc_demo command:<br>
 <img width="302" alt="Screenshot 2023-10-29 at 11 58 42 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/d3685d67-02bb-496c-a973-7236aef283e3">
 
-list_processes command:
+list_processes command:<br>
 <img width="314" alt="Screenshot 2023-10-29 at 11 59 06 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/ad3eb221-b008-4c61-b71c-75f74870f21e">
 
-create_process command:
+create_process command:<br>
 <img width="509" alt="Screenshot 2023-10-29 at 11 59 59 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/6b2a7ba9-e5de-4e70-aeeb-323d7d738daf">
 
 <img width="427" alt="Screenshot 2023-10-30 at 12 00 21 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/b050d22a-8da6-4c3d-a379-c4cdecde5c2c">
@@ -46,7 +47,7 @@ create_process command:
 
 <img width="498" alt="Screenshot 2023-10-30 at 12 01 50 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/cf37d480-14bb-453d-ace0-36027aed3afa">
 
-Exit Cammand:
+Exit Cammand:<br>
 <img width="212" alt="Screenshot 2023-10-30 at 12 12 58 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/c7b77243-3e0b-4235-a60d-1ff1c66171c1">
 
 
