@@ -1,6 +1,6 @@
 # Advanced-Process-Manager-with-Process-Synchronization
 
-##1. Implemented Functionalities:
+## 1. Implemented Functionalities:
 
 -Create a new process.<br>
 -List processes (demo implementation).<br>
@@ -9,7 +9,7 @@
 -Inter-process communication (IPC) demonstration using a pipe.<br>
 -Thread synchronization demo using a mutex.<br>
 
-##2. Installation Instructions:
+## 2. Installation Instructions:
 
 -Ensure you have the clang compiler installed.
 -Navigate to the directory containing main.c and process_manager.c.
