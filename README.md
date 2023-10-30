@@ -33,11 +33,12 @@
 
 2. List_processes command:<br>
 <img width="371" alt="Screenshot 2023-10-29 at 11 58 04 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/70e88be4-7e75-40f3-a94d-88ad36ef764c"><br>
-- Creates a thread that locks a mutex, prints a starting message, sleeps for 2 seconds, prints a finishing message, and then unlocks the mutex.
+- Prints a message stating that listing processes is not implemented in this demo.
 
 
 3. Terminate_process command:<br>
 <img width="302" alt="Screenshot 2023-10-29 at 11 58 42 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/d3685d67-02bb-496c-a973-7236aef283e3"><br>
+Sends a SIGTERM signal to the process with the provided PID to terminate it.
 
 
 4. Thread_sync_demo hello_sync<br>
@@ -60,6 +61,6 @@
 
 8. Exit Cammand:<br>
 <img width="212" alt="Screenshot 2023-10-30 at 12 12 58 AM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/c7b77243-3e0b-4235-a60d-1ff1c66171c1">
-
+- Exits the program.
 
 
