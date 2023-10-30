@@ -45,7 +45,7 @@
 - This feature is a demo placeholder and informs the user that it's not fully implemented.
 
 
-5. Create_process command:<br>
+5. Create_thread hello_thread<br>
 <img width="509" alt="Screenshot 2023-10-29 at 11 59 59 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/6b2a7ba9-e5de-4e70-aeeb-323d7d738daf">
 
 6. Ipc_demo command:<br>
