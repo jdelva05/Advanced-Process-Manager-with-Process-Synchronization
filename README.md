@@ -27,16 +27,23 @@
 
 ## Outputs
 create_thread command:<br>
-<img width="803" alt="Screenshot 2023-10-29 at 11 53 35 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/e64dff60-2475-49aa-ac41-1584fa8e4248">
+<img width="803" alt="Screenshot 2023-10-29 at 11 53 35 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/e64dff60-2475-49aa-ac41-1584fa8e4248"><br>
+- create_process /bin/ls command is executed, the program creates a new process that lists the contents of the current directory.
+
 
 thread_sync_demo command:<br>
-<img width="371" alt="Screenshot 2023-10-29 at 11 58 04 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/70e88be4-7e75-40f3-a94d-88ad36ef764c">
+<img width="371" alt="Screenshot 2023-10-29 at 11 58 04 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/70e88be4-7e75-40f3-a94d-88ad36ef764c"><br>
+- Creates a thread that locks a mutex, prints a starting message, sleeps for 2 seconds, prints a finishing message, and then unlocks the mutex.
+
 
 ipc_demo command:<br>
-<img width="302" alt="Screenshot 2023-10-29 at 11 58 42 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/d3685d67-02bb-496c-a973-7236aef283e3">
+<img width="302" alt="Screenshot 2023-10-29 at 11 58 42 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/d3685d67-02bb-496c-a973-7236aef283e3"><br>
+- Demonstrates Inter-Process Communication (IPC) using pipes. The parent sends "Hello from parent!" to the child process, and the child process prints "Child received message: Hello from parent!".
 
 list_processes command:<br>
-<img width="314" alt="Screenshot 2023-10-29 at 11 59 06 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/ad3eb221-b008-4c61-b71c-75f74870f21e">
+<img width="314" alt="Screenshot 2023-10-29 at 11 59 06 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/ad3eb221-b008-4c61-b71c-75f74870f21e"><br>
+- This feature is a demo placeholder and informs the user that it's not fully implemented.
+
 
 create_process command:<br>
 <img width="509" alt="Screenshot 2023-10-29 at 11 59 59 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/6b2a7ba9-e5de-4e70-aeeb-323d7d738daf">
