@@ -40,7 +40,7 @@
 <img width="302" alt="Screenshot 2023-10-29 at 11 58 42 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/d3685d67-02bb-496c-a973-7236aef283e3"><br>
 
 
-4. List_processes command:<br>
+4. Thread_sync_demo hello_sync<br>
 <img width="314" alt="Screenshot 2023-10-29 at 11 59 06 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/ad3eb221-b008-4c61-b71c-75f74870f21e"><br>
 - This feature is a demo placeholder and informs the user that it's not fully implemented.
 
