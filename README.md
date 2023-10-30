@@ -31,7 +31,7 @@
 - create_process /bin/ls command is executed, the program creates a new process that lists the contents of the current directory.
 
 
-2. Thread_sync_demo hello_sync
+2. List_processes command:<br>
 <img width="371" alt="Screenshot 2023-10-29 at 11 58 04 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/70e88be4-7e75-40f3-a94d-88ad36ef764c"><br>
 - Creates a thread that locks a mutex, prints a starting message, sleeps for 2 seconds, prints a finishing message, and then unlocks the mutex.
 
