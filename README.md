@@ -36,7 +36,7 @@
 - Creates a thread that locks a mutex, prints a starting message, sleeps for 2 seconds, prints a finishing message, and then unlocks the mutex.
 
 
-3. Terminate_process command:
+3. Terminate_process command:<br>
 <img width="302" alt="Screenshot 2023-10-29 at 11 58 42 PM" src="https://github.com/redbolt101/Advanced-Process-Manager-with-Process-Synchronization/assets/132689188/d3685d67-02bb-496c-a973-7236aef283e3"><br>
 
 
